@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "WedgieCopingGame",
+"productName": "CopingGame",
 "productVersion": "0.1",
 "dataUrl": "socialgame.data.unityweb",
 "wasmCodeUrl": "socialgame.wasm.code.unityweb",
